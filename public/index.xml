@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sat, 22 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Education Idaho State University Ph.D. in Nuclear Science &amp;amp; Engineering&#xA;M.S. in Nuclear Science &amp;amp; Engineering&#xA;President, American Nuclear Society student section Treasurer, American Nuclear Society student section Executive member, Bylaws and Rules Committee, American Nuclear Society Member, Nuclear Criticality and Safety Division, American Nuclear Society Dickinson State University B.S. in Mathematics&#xA;Skills and Abilities Fluent in English and Mongolian Ability to master new skills quickly Microsoft Office MCNP, SCALE, KENO, SERPENT, PARCS, SAPHIRE FORTRAN, JAVA, C++, PYTHON, MATLAB, SCALA, SQL, PRESTO Employment History Senior Data Engineer Capital One (2020 - Present)</description>
+    </item>
+  </channel>
+</rss>
