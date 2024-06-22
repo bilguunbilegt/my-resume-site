@@ -2,10 +2,10 @@ baseURL = "https://bilguunbyambadorj.netlify.app/"
 languageCode = "en-us"
 title = "My Hugo Site"
 theme = "sada"
-
+ignoreErrors = ["error-disable-taxonomy"]
 [params]
   author = "Bilguun Byambadorj"
   description = "My Resume"
 
-[build]
-  ignoreErrors = ["error-disable-taxonomy"]
+
+  
