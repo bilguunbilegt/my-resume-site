@@ -1,0 +1,5 @@
+<!-- layouts/partials/resume.html -->
+<h2>My Resume</h2>
+{{ with .Site.GetPage "page" "resume.md" }}
+  {{ .Content }}
+{{ end }}

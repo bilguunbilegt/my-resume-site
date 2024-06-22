@@ -40,3 +40,5 @@ B.S. in Mathematics
 - Used High-Performance Computing cluster in Windows environment
 - Participated in preparation of technical reports for Department of Energy (DOE) and Nuclear Regulatory Commission (NRC)
 - Developed reactor physics code using FORTRAN
+
+[Back to Home](/)
