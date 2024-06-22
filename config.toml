@@ -1,0 +1,4 @@
+baseURL = "https://bilguunbyambadorj.netlify.app/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "sada"
